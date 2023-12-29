@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning *ReactJs and React Native📲*
 
-- 💬 Ask me about *R,Javascript,3d modeling*
+- 💬 Ask me about *R,Javascript,3d modeling,python*
 
 - 📫 How to reach me *adilbelim03@gmail.com*
 
