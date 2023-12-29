@@ -21,4 +21,4 @@
 <p align="left">
 <a href="https://twitter.com/adil_b26" target="blank"><img align="center" src="image content/icons8-twitter.gif" height="30" width="30" /></a>
   &nbsp;
-<a href="adilbelim03@gmail.com" target="blank"><img align="center" src="image content/icons8-gmail.gif" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/adil-belim-b294482a7/" target="blank"><img align="center" src="image content/icons8-linkedin.gif" height="30" width="30" /></a>
