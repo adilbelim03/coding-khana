@@ -20,3 +20,4 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/adil_b26" target="blank"><img align="center" src="image content/icons8-twitter.gif" height="40" width="40" /></a>
+<a href="adilbelim03@gmail.com" target="blank"><img align="center" src="image content/icons8-gmail.gif" height="40" width="40" /></a>
