@@ -1,4 +1,4 @@
-![logo](image content/photo_2023-12-28_21-27-01.jpg)
+![logo]("image content/photo_2023-12-28_21-27-01.jpg")
 
 <h1 align="center">Hi 👋, I'm Adil Belim</h1>
 <h3 align="center">A Software Devloper</h3>
