@@ -25,8 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/hardik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="hardik" height="30" width="40" /></a>
-<a href="https://twitter.com/@hardikajmeriya2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hardikajmeriya2" height="30" width="40" /></a>
+<a href="https://twitter.com/adil_b26" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@hardikajmeriya2" height="30" width="40" /></a>
 <a href="https://instagram.com/hardik.__.ajmeriya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hardik.__.ajmeriya" height="30" width="40" /></a>
 </p>
 
