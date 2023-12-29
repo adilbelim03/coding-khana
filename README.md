@@ -17,11 +17,7 @@
 
 - 📫 How to reach me *adilbelim03@gmail.com*
 
-- ⚡ Fun fact *i am pop culture enthusiast 🎞️🎬*
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- ⚡ *pop culture enthusiast 🎞️🎬*
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
