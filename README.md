@@ -21,4 +21,4 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/adil_b26" target="blank"><img align="center" src="image content/icons8-twitter.gif" height="30" width="40" /></a>
+<a href="https://twitter.com/adil_b26" target="blank"><img align="center" src="image content/icons8-twitter.gif" height="50" width="40" /></a>
